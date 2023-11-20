@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(168, 11, 199);
+  }
+
+.foto{
+    border: px solid yellow;
+    width: 50%;
+    height: 400px;
+    display: flex;
+}
+.foto img{
+    margin-right: 50px;
+    border: 10px solid yellow;
+    width: 600px;
+    height: 500px;
+    margin-left: 18%;
+    margin-top: 20%;
+    margin-right: 75px;
+}
